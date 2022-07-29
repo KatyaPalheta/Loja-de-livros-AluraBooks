@@ -1,0 +1,16 @@
+@import url("styles/header.css");
+:root{
+    --cor-de-fundo:#EBECEE;
+    --fonte: 'Poppins', sans-serif;
+    --cor-do-cabecalho: #FFFFFF;
+    --cor-texto-secundario:#EB9B00;
+    --cor-fundo-azul: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --cor-texto-azul: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+
+
+}
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte);
+}
